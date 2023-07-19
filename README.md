@@ -7,11 +7,8 @@ In application development, my favorite aspect has always been the design proces
 Despite being partially color blind, I possess a natural talent for conceptualization, 
 drawing inspiration from traditional fine arts methods.
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=andasan"
-    alt="andasan"
-  />
-</p>
+[![Spotify Playlist](https://img.shields.io/badge/My%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO25zEyJ?si=55af3d6e42984cba)
+
+
 
 <sub><i>⚡ Fun fact: I can speak multiple languages, but my proficiency varies to simple words and phrases on the language.</i></sub>
