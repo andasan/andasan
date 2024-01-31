@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m **Francois**
 
-I am a web developer/designer/instructor at [CICCC](https://www.ciccc.ca/), where I teach and mentor the students in the immersive web development topics. In my spare time, I do a lot of **[ロケハン](https://en.wikipedia.org/wiki/Location_scouting)** online for photography, planning for trips that usually never happen 😅. I also enjoy learning new technologies!
+I am a web developer/designer/mentor at [CICCC](https://www.ciccc.ca/), where I mentor the students in the immersive web development topics. In my spare time, I do a lot of **[ロケハン](https://en.wikipedia.org/wiki/Location_scouting)** online for photography, planning for trips that usually never happen 😅. I also enjoy learning new technologies!
 
 I've had a decade-long love affair with ⚛️ React.js and all things front-end. 
 In application development, my favorite aspect has always been the design process. 
